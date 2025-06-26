@@ -1,0 +1,15 @@
+# PyCharm project files
+.idea/
+*.iml
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Data
+*.csv
+*.png
